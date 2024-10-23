@@ -21,7 +21,7 @@ git clone https://github.com/oluwatimilehinawoniyi/Java-Practice.git
 
 2. Navigate to the directory:
 ```shell
-cd java_exercises
+cd java-practice
 ```
 
 ## Contributing
