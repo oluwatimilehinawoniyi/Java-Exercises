@@ -75,17 +75,17 @@ java CarPlantDemo
 
 ## 🛠️ Future Improvements
 
--[ ] Use 2D Array as parking lot.
+- [ ] Use 2D Array as parking lot.
 - [ ] Change `Queue` storages to better data structures.
 - [ ] An Algorithm that stores freed spaces by the `Retrieval 
 System` and provide them as options to the `Parking System` for
   quicker parking.
--[ ] Add a graphical user interface (GUI) to visually represent the
- car manufacturing and parking system.
--[ ] Implement a logging system to keep track of events in a more
- detailed manner.
--[ ] Add more manufacturers, parkers, and retrievers to simulate a
- larger-scale system.
+- [ ] Add a graphical user interface (GUI) to visually represent the
+  car manufacturing and parking system.
+- [ ] Implement a logging system to keep track of events in a more
+  detailed manner.
+- [ ] Add more manufacturers, parkers, and retrievers to simulate a
+  larger-scale system.
 
 ## 📬 Contact
 
