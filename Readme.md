@@ -16,7 +16,7 @@ respective `Readme.md` file.
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/oluwatimilehinawoniyi/Java-Exercises.git
+git clone https://github.com/oluwatimilehinawoniyi/Java-Practice.git
 ```
 
 2. Navigate to the directory:
